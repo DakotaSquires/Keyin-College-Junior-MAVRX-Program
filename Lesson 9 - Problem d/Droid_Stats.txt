@@ -1,0 +1,15 @@
+For the week of:2022-08-02 10:40:07.151208
+Price of droid 1 is: $ 78
+Price of droid 2 is: $ 8
+Price of droid 3 is: $ 85
+Price of droid 4 is: $ 6
+Price of droid 5 is: $ 3
+Price of droid 6 is: $ 2
+Price of droid 7 is: $ 3
+Price of droid 8 is: $ 455
+Price of droid 9 is: $ 556
+Price of droid 10 is: $ 895
+Price of droid 11 is: $ 74
+Price of droid 12 is: $ 122
+Price of droid 13 is: $ 458
+Price of droid 14 is: $ 96364
